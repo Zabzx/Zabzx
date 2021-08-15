@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zabzx
+- 👀 I’m interested in ... Front end Web development
+- 🌱 I’m currently learning ... Javascript and will soon move on to react!
+- 💞️ I’m looking to collaborate on ... anything really
+- 📫 How to reach me ... my email is zabq02@gmail.com or you can contact me on twitter @endeavor4ever
