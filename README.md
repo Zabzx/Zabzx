@@ -1,7 +1,8 @@
-Hello there.. My name is Zabz and I'm a beginner Front End Web Developer, I'm well versed in:
+Hello there 👋 my name is Ziabeher Phillips and I'm a 20 year old Front End Web developer from the Caribbean.
+I love building fun and meaningful websites, solving problems and learning new technologies.
+My Tech Stack:
+ReactJS
+JavaScript
 HTML
 CSS
 Tailwind CSS
-Vanilla JavaScript
-I'm currently Learning React.
-To contact me, my email is zabq02@gmail.com
