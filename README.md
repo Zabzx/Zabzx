@@ -6,3 +6,5 @@ JavaScript
 HTML
 CSS
 Tailwind CSS
+I recently learned the basics of Elixir
+I am currently working on my design skills and improving with React!
