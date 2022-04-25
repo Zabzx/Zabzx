@@ -1,5 +1,5 @@
 # 🌌 I'm not good at introductions but I make up for it in Development Skills 🙏
-![Alt Text](https://tenor.com/view/coding-gif-24297652)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ## My name is Ziabeher Phillips, a 21 year old UI / UX Developer based in the Caribbean.
 ---
