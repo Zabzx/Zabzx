@@ -1,11 +1,14 @@
-Hello there 👋 my name is Ziabeher Phillips and I'm a 20 year old Front End Web developer from the Caribbean.
-I love building fun and meaningful websites, solving problems and learning new technologies.
-My Tech Stack:
-ReactJS,
-Redux
-JavaScript,
-HTML,
-CSS,
-Tailwind CSS.
-I recently learned the basics of Elixir.
-I am currently working on my design skills and improving with React!
+# 🌌 I'm not good at introductions but I make up for it in Development Skills 🙏
+<img align="right" alt="GIF" src="./coding.gif" />
+
+## My name is Ziabeher Phillips, a 21 year old UI / UX Developer based in the Caribbean.
+---
+
+
+I have been working on Web Development for a little over 2 years now and I have honed my skills a lot and added a wide range of technologies to my arsenal. My goal is the be a fullstack Developer at the end of 2022.
+
+---
+
+# My Tech Stack
+
+<img src="./frontend.png">
