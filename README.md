@@ -11,4 +11,4 @@ I have been working on Web Development for a little over 2 years now and I have 
 
 # My Tech Stack
 
-<img src="https://www.pikpng.com/transpng/iJoxihR/">
+<img src="https://www.pikpng.com/pngl/b/382-3820403_we-specialize-in-technologies-html-css-js-icons.png">
