@@ -11,4 +11,4 @@ I have been working on Web Development for a little over 2 years now and I have 
 
 # My Tech Stack
 
-<img src="./frontend.png">
+<img src="https://www.pikpng.com/transpng/iJoxihR/">
