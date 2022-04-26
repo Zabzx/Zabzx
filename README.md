@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://tenor.com/view/coding-gif-24297652.gif/">
+<img align="right" width="300" alt="GIF" src="https://tenor.com/view/coding-gif-24297652.gif/">
 
-# 🌌 I'm not good at introductions but I make up for it in Development Skills 🙏
+# 🌌 Not the best at introductions but I make up for it in Development Skills 🙏
 
 ## My name is Ziabeher Phillips, a 21 year old UI / UX Developer based in the Caribbean.
 ---
@@ -13,3 +13,15 @@ I have been working on Web Development for a little over 2 years now and I have 
 # My Tech Stack
 
 <img src="https://www.pikpng.com/pngl/b/382-3820403_we-specialize-in-technologies-html-css-js-icons.png">
+
+## React
+<img width="300" src="https://user-images.githubusercontent.com/88985587/165334827-f8da69f3-5da0-4cee-8a56-5fa6745fda30.png">
+
+## TailwindCSS
+<img width="300" src="https://user-images.githubusercontent.com/88985587/165334365-f8b6e86b-a654-4dc4-886b-535a08eb25cd.png">
+
+## Currently learning Python
+<img width="300" src="https://user-images.githubusercontent.com/88985587/165336812-ad33b1cd-3890-4f29-b2e5-6c895e6307d0.png">
+
+## NPM
+![npm](https://user-images.githubusercontent.com/88985587/165336029-d29e02bb-9ae7-4c25-9d9c-2692b61656cc.png)
