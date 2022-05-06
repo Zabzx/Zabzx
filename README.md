@@ -12,7 +12,7 @@ I have been working on Web Development for a little over 2 years now and I have 
 
 # My Tech Stack
 
-<img src="https://www.pikpng.com/pngl/b/382-3820403_we-specialize-in-technologies-html-css-js-icons.png">
+<img height="200" src="https://www.pikpng.com/pngl/b/382-3820403_we-specialize-in-technologies-html-css-js-icons.png">
 
 ## React
 <img width="300" src="https://user-images.githubusercontent.com/88985587/165334827-f8da69f3-5da0-4cee-8a56-5fa6745fda30.png">
