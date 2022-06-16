@@ -6,7 +6,7 @@
 ---
 
 
-I have been working on Web Development for a little over 2 years now and I have honed my skills a lot and added a wide range of technologies to my arsenal. My goal is the be a fullstack Developer at the end of 2022.
+For 2 years, I have been building Web Applications, learning new technologies and improving as a developer. I am currently learning backend development with Node.JS and Express.
 
 ---
 
