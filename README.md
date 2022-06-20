@@ -6,7 +6,7 @@
 ---
 
 
-For 2 years, I have been building Web Applications, learning new technologies and improving as a developer. I am currently learning backend development with Node.JS and Express.
+For 2 years, I have been building Web Applications, learning new technologies and improving as a developer. I am currently learning backend development with Node.JS and Express. (I am always coding, any gap on my github profile is me learning a new technology or physically unable to type)
 
 ---
 
