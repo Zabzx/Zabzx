@@ -2,11 +2,11 @@
 
 # Welcome to my GitHub profile 🙏
 
-## My name is Ziabeher Phillips, a 21 year old UI / UX Developer based in the Caribbean.
+## I'm Ziabeher, a 21 year old Full Stack Developer based in the Caribbean.
 ---
 
 
-For 2 years, I have been building Web Applications, learning new technologies and improving as a developer. I am currently learning backend development with Node.JS and Express. (I am always coding, any gap on my github profile is me learning a new technology or physically unable to type)
+For 2 years, I have been building Web Applications, learning new technologies and improving as a developer. Currently building full stack applications with node and express. (I am always coding, any gap on my github profile is me learning a new technology or physically unable to type)
 
 ---
 
