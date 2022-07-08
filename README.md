@@ -11,17 +11,6 @@ For 2 years, I have been building Web Applications, learning new technologies an
 ---
 
 # My Tech Stack
-
-<img height="200" src="https://www.pikpng.com/pngl/b/382-3820403_we-specialize-in-technologies-html-css-js-icons.png">
-
-## React
-<img width="300" src="https://user-images.githubusercontent.com/88985587/165334827-f8da69f3-5da0-4cee-8a56-5fa6745fda30.png">
-
-## TailwindCSS
-<img width="300" src="https://user-images.githubusercontent.com/88985587/165334365-f8b6e86b-a654-4dc4-886b-535a08eb25cd.png">
-
-## Currently learning Python
-<img width="300" src="https://user-images.githubusercontent.com/88985587/165336812-ad33b1cd-3890-4f29-b2e5-6c895e6307d0.png">
-
-## NPM
-![npm](https://user-images.githubusercontent.com/88985587/165336029-d29e02bb-9ae7-4c25-9d9c-2692b61656cc.png)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,tailwind,nodejs,mongodb,py,figma,git)](https://skills.thijs.gg)
+---
+(HTML, CSS, Javascript, React, TailwindCSS, Node.js, Express, MongoDB, Python, Figma, Git, GitHub)
