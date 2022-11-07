@@ -1,5 +1,3 @@
-<img align="right" width="300" alt="GIF" src="https://tenor.com/view/coding-gif-24297652.gif/">
-
 # Welcome to my GitHub profile 🙏
 
 ## I'm Ziabeher, a 21 year old Full Stack Developer based in the Caribbean.
