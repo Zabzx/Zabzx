@@ -1,4 +1,4 @@
-## 21 year old Full Stack Developer based in the Caribbean.
+## 22 year old Full Stack Developer based in the Caribbean.
 
 ---
 
